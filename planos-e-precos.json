@@ -1,0 +1,46 @@
+{
+ "normal": [
+  {
+   "plano": "Fibra",
+   "cartao": 95,
+   "boleto": 110
+  },
+  {
+   "plano": "Essencial",
+   "cartao": 125,
+   "boleto": 140
+  },
+  {
+   "plano": "Super",
+   "cartao": 155,
+   "boleto": 170
+  },
+  {
+   "plano": "Ultra",
+   "cartao": 185,
+   "boleto": 200
+  }
+ ],
+ "promocao": [
+  {
+   "plano": "Fibra Especial",
+   "cartao": 55,
+   "boleto": 110
+  },
+  {
+   "plano": "Essencial Especial",
+   "cartao": 70,
+   "boleto": 140
+  },
+  {
+   "plano": "Super Especial",
+   "cartao": 85,
+   "boleto": 170
+  },
+  {
+   "plano": "Ultra Especial",
+   "cartao": 100,
+   "boleto": 200
+  }
+ ]
+}
